@@ -1,3 +1,3 @@
-This is login functionality.
+This is login functionalities.
 Added more Functionality.
 Added Remember Me Functionality.
